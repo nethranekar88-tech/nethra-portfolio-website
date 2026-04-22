@@ -1,16 +1,36 @@
-# React + Vite
+# Nethra Nekar Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A personal developer portfolio website built with React, Vite, and Tailwind CSS to showcase Flutter, FlutterFlow, Firebase, and web development projects.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Modern responsive portfolio design
+- Hero section with profile image
+- About Me section
+- Skills section
+- Featured Projects section
+- GitHub, Upwork, Fiverr, and LinkedIn links
+- Contact section
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React
+- Vite
+- Tailwind CSS
+- JavaScript
 
-## Expanding the ESLint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Meeting Room Booking App – Flutter + Firebase
+- TrekAura Travel Website
+- HR Recruitment Portal
+- Flutter Travel Booking App
+- TripMate Travel App
+
+## Contact
+
+- Email: nethranekar68@gmail.com
+- GitHub: https://github.com/nethranekar88-tech
+- LinkedIn: https://www.linkedin.com/in/nethra-nekar-ab2494259/
+- Upwork: https://www.upwork.com/freelancers/~0129f5261d60e91e5b
+- Fiverr: https://www.fiverr.com/nethranekar22/buying?source=avatar_menu_profile
